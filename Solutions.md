@@ -12,4 +12,7 @@ Day 11:
 First part - generate the grid using transpose, self-explanatory
 Second part - just multiply (distance from first part - distance before expansion) * (999999) + distance before expansion
 
+Day 14:
+My code takes 60 seconds to run with cpython but 6 with pypy :skull:
+
 I used GPT *partially* (not fully, as it usually doesn't generate working code) for a few other solutions as well from days 7 onward.
